@@ -1,0 +1,9 @@
+.Second {
+  background-color: chartreuse;
+  font-size: 36px;
+  padding: 5px;
+}
+
+.Second * {
+  margin: 0;
+}

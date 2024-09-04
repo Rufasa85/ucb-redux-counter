@@ -1,0 +1,9 @@
+.First {
+  background-color: salmon;
+  font-size: 36px;
+  padding: 5px;
+}
+
+.First * {
+  margin: 0;
+}
